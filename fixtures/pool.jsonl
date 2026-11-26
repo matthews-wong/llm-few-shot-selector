@@ -1,0 +1,20 @@
+{"id": "p01", "input": "I was charged twice for my subscription", "output": "billing"}
+{"id": "p02", "input": "please refund my last invoice", "output": "billing"}
+{"id": "p03", "input": "the invoice shows the wrong VAT number", "output": "billing"}
+{"id": "p04", "input": "my card was charged after I cancelled", "output": "billing"}
+{"id": "p05", "input": "can I get a receipt for my payment", "output": "billing"}
+{"id": "p06", "input": "the app crashes when I open settings", "output": "bug"}
+{"id": "p07", "input": "export to CSV fails with an error", "output": "bug"}
+{"id": "p08", "input": "login page keeps spinning forever", "output": "bug"}
+{"id": "p09", "input": "dashboard shows a blank screen after update", "output": "bug"}
+{"id": "p10", "input": "notifications arrive twice on android", "output": "bug"}
+{"id": "p11", "input": "how do I export my data to a file", "output": "howto"}
+{"id": "p12", "input": "where can I change my email address", "output": "howto"}
+{"id": "p13", "input": "how to invite a teammate to my workspace", "output": "howto"}
+{"id": "p14", "input": "how do I enable two factor login", "output": "howto"}
+{"id": "p15", "input": "can I schedule a weekly report", "output": "howto"}
+{"id": "p16", "input": "I cannot reset my password", "output": "account"}
+{"id": "p17", "input": "please delete my account and data", "output": "account"}
+{"id": "p18", "input": "my account was locked after failed logins", "output": "account"}
+{"id": "p19", "input": "merge two accounts under one email", "output": "account"}
+{"id": "p20", "input": "I did not receive the verification email", "output": "account"}
