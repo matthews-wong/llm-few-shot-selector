@@ -1,0 +1,12 @@
+{"query": "why was I billed twice this month", "label": "billing"}
+{"query": "I need a refund for a charge", "label": "billing"}
+{"query": "wrong tax number on my invoice", "label": "billing"}
+{"query": "app crashes when exporting", "label": "bug"}
+{"query": "login screen stuck loading", "label": "bug"}
+{"query": "blank dashboard after the latest update", "label": "bug"}
+{"query": "how can I invite someone to my workspace", "label": "howto"}
+{"query": "where do I turn on two factor", "label": "howto"}
+{"query": "how do I schedule a report", "label": "howto"}
+{"query": "I forgot my password and cannot reset it", "label": "account"}
+{"query": "please remove my account", "label": "account"}
+{"query": "verification email never arrived", "label": "account"}
